@@ -40,9 +40,9 @@ En effet, les points communs sont nombreux :
 :mortar_board: Je suis d'ailleurs actuellement à la recherche d'une alternance d'un an à compter d'octobre 2024.
 
 
-## Contact
+## :mailbox_with_mail: Contact
 
-:mailbox_with_mail: Vous pouvez me contacter via mon profil Github ou [LinkedIn](www.linkedin.com/in/marine-suhard) pour discuter de toute opportunité professionnelle ou de collaboration.
+Vous pouvez me contacter via mon profil Github ou [LinkedIn](www.linkedin.com/in/marine-suhard) pour discuter de toute opportunité professionnelle ou de collaboration.
 
 
 
