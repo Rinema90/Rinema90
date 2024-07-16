@@ -2,7 +2,7 @@
 
 ## :balance_scale:&#x27A1;&#x1F4BB; À propos de moi
 
-Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires passionnée par la technologie et actuellement en reconversion vers le métier de développeur, je suis déterminée à apporter mes compétences analytiques et mon expérience juridique dans le monde de la programmation.
+Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires passionnée par la technologie et actuellement en reconversion vers le métier de développeur. Je suis déterminée à apporter mes compétences analytiques et mon expérience juridique dans le monde de la programmation.
 
 ## :seedling: Compétences
 
@@ -33,16 +33,16 @@ Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires pas
 
 Mon objectif est de continuer à apprendre et à m'améliorer dans le développement web, tout en apportant une perspective unique grâce à mon expérience antérieure en droit, car le métier de juriste n'est pas si éloigné de celui de développeur.
 En effet, les points communs sont nombreux :
-- L'aptitude à savoir chercher dans la documentation et à analyser les résultats adaptés aux besoins ;
-- La rigueur, une simple virgule oubliée peut tout changer ;
-- Le relationnel afin d'être capable de travailler en équipe tout en sachant adapter son discours à son intelocuteur qu'il soit client ou collaborateur interne.
+- :books: L'aptitude à savoir chercher dans la documentation et à analyser les résultats adaptés aux besoins ;
+- :microscope: La rigueur, une simple virgule oubliée pouvant tout changer ;
+- :speech_balloon: Le relationnel afin d'être capable de travailler en équipe tout en sachant adapter son discours à son intelocuteur qu'il soit client ou collaborateur interne.
 
 :mortar_board: Je suis d'ailleurs actuellement à la recherche d'une alternance d'un an à compter d'octobre 2024.
 
 
 ## Contact
 
-:mailbox_with_mail: Vous pouvez me contacter via mon profil Github ou mon [LinkedIn](www.linkedin.com/in/marine-suhard) pour discuter de toute opportunité professionnelle ou de collaboration.
+:mailbox_with_mail: Vous pouvez me contacter via mon profil Github ou [LinkedIn](www.linkedin.com/in/marine-suhard) pour discuter de toute opportunité professionnelle ou de collaboration.
 
 
 
