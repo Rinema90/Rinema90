@@ -8,18 +8,18 @@ Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires pas
 
  A travers ma formation, je monte en compétence sur les technologies suivantes :
 
-### Langages et technologies :
+### Langages et frameworks :
 
-- JavaScript (Node.js, React)
+- Node.js/Javascript (Express,React)
 - PHP (Laravel)
-- HTML/CSS
+- HTML/CSS (Tailwind)
 - SQL
 
-### Outils et frameworks :
+### Outils :
 
+- VS Code
 - Git/GitHub
 - Docker
-- Express.js
 
 ## :woman_technologist: Projets récents
 
@@ -35,7 +35,7 @@ Mon objectif est de continuer à apprendre et à m'améliorer dans le développe
 En effet, les points communs sont nombreux :
 - :books: L'aptitude à savoir chercher dans la documentation et à analyser les résultats adaptés aux besoins ;
 - :microscope: La rigueur, une simple virgule oubliée pouvant tout changer ;
-- :speech_balloon: Le relationnel afin d'être capable de travailler en équipe tout en sachant adapter son discours à son intelocuteur qu'il soit client ou collaborateur interne.
+- :speech_balloon: Le relationnel afin d'être capable de travailler en équipe tout en sachant adapter son discours à son interlocuteur qu'il soit client ou collaborateur interne.
 
 :mortar_board: Je suis d'ailleurs actuellement à la recherche d'une alternance d'un an à compter d'octobre 2024.
 
