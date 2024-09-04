@@ -23,7 +23,7 @@ Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires pas
 
 ## :woman_technologist: Projets récents
 
-- :chair: [Plateforme de vente de meubles](https://github.com/Rinema90/furniture-sales-platform.git) : Développement full stack d'une plateforme de vente de meubles avec Node JS(Express) / Javascript(React) / SQL(MySQL) 
+- :chair: [Plateforme de vente de meubles](https://github.com/Rinema90/furniture_sales_platform.git) : Développement full stack d'une plateforme de vente de meubles avec Node JS(Express) / Javascript(React) / SQL(MySQL) 
 
 - :globe_with_meridians: [Réseau social](https://github.com/Rinema90/social-network.git) : Développement d'un réseau social en PHP et MySQL
   
