@@ -6,25 +6,25 @@ Bonjour ! Je m'appelle Marine Suhard, ancienne juriste en droit des affaires pas
 
 ## :seedling: Compétences
 
- A travers ma formation, je monte en compétence sur les technologies suivantes :
+ A travers mes missions dans le cadre de mon alternance et mon projet de fin d'études, je monte en compétence sur les technologies suivantes :
 
-### Langages et frameworks :
-
-- Node.js/Javascript (Express,React)
-- PHP (Laravel)
-- HTML/CSS (Tailwind)
-- SQL
-
-### Outils :
-
-- VS Code
-- Git/GitHub
+- React/Typescript
+- SCSS/Sass
+- Node (Express)
+- Java (Spring Boot)
+- PostgresSQL, MongoDB
+- Webpack, Vite
+- Jest, React-testing-library
+- JUnit 5, MockMvc, Mockito
 - Docker
+- Git /GitHub
 
 ## :woman_technologist: Projets récents
 
+- :woman_cook: [Batchcooking](https://github.com/Rinema90/BatchCooking) : Application web full stack de batchcooking intégrant un modèle Python de génération de batch à partir de recettes filtrées selon les préférences utilisateur : Java (Spring Boot), React/Typescript, MongoDB, Docker
+  
 - :chair: [Plateforme de vente de meubles](https://github.com/Rinema90/furniture_sales_platform.git) : Développement full stack d'une plateforme de vente de meubles avec Node JS(Express) / Javascript(React) / SQL(MySQL)
-
+  
 - :camera: [Projet de microblogging](https://github.com/Rinema90/microblogging-project.git) : Développement full stack d'un site de microblogging de type Instagram en PHP(Laravel), JS(Alpine), PostgreSQL, dans un environnement Docker
 
 - :globe_with_meridians: [Réseau social](https://github.com/Rinema90/social-network.git) : Développement d'un réseau social en PHP et MySQL
@@ -38,9 +38,6 @@ En effet, les points communs sont nombreux :
 - :books: L'aptitude à savoir chercher dans la documentation et à analyser les résultats adaptés aux besoins ;
 - :microscope: La rigueur, une simple virgule oubliée pouvant tout changer ;
 - :speech_balloon: Le relationnel afin d'être capable de travailler en équipe tout en sachant adapter son discours à son interlocuteur qu'il soit client ou collaborateur interne.
-
-:mortar_board: Je suis d'ailleurs actuellement à la recherche d'une alternance d'un an à compter d'octobre 2024.
-
 
 ## :mailbox_with_mail: Contact
 
